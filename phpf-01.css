@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #ccc;
+}
+
+main{
+  width: 80%;
+  margin: 0px auto;
+  position: relative;
+}
+
+.plaatjes{
+  width: 100%;
+  float: left;
+  margin: 10px;
+  background: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+
+
+
+.thumbnails img{
+  width: 50%;
+  transition: 0.6s;
+}
+
