@@ -1,0 +1,40 @@
+*{
+
+}
+#container{
+width: 80%;
+height: 100vh;
+  margin: 0 auto;
+  display: flex;
+    flex-direction: column;
+}
+body{
+  background-color: dimgrey;
+}
+div{
+  display: block;
+}
+main{
+  text-align: center;
+  font-size: 200px ;
+  background-color: white;
+  opacity: 0.7;
+  flex: 1;
+}
+nav{
+  background-color: lightblue;
+}
+header{
+  height: 50px;
+background-color: blue;
+  text-align: center;
+  color: white;
+  font-size: 50px
+}
+
+
+footer{
+color: white;
+  text-align: right;
+background-color: blue;
+}

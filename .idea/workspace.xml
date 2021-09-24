@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b15449c-4611-4922-8997-4694b2795130" name="Default Changelist" comment="" />
+    <list default="true" id="4b15449c-4611-4922-8997-4694b2795130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/functions/1gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/2gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/urltrigger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/oefentoets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trigger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/triggers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpprojects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/afbeeldingen/Royalistiq-boeken-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/afbeeldingen/s13.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/afbeeldingen/supra.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +42,28 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xZaFSGNqhw55kgqe9WpDeUdrAr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csp1/op1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/toets 1/oefentoets.php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -25,7 +71,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpprojects\functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpprojects\functions" />
+      <recent name="C:\xampp\htdocs\phpprojects\toets 1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,25 +92,84 @@
       <option name="presentableId" value="Default" />
       <updated>1630564960891</updated>
       <workItem from="1630564962140" duration="2515000" />
-      <workItem from="1631265073688" duration="482000" />
+      <workItem from="1631265073688" duration="3957000" />
+      <workItem from="1631696103224" duration="160000" />
+      <workItem from="1631696336238" duration="5338000" />
+      <workItem from="1631771974868" duration="7899000" />
+      <workItem from="1632292584640" duration="3073000" />
+      <workItem from="1632300247248" duration="5000" />
+      <workItem from="1632301270649" duration="10633000" />
+      <workItem from="1632376207729" duration="5449000" />
+      <workItem from="1632381760643" duration="7000" />
+      <workItem from="1632469472663" duration="3371000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="129" key="FileChooserDialogImpl" timestamp="1630567763536">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="331" y="96" key="#Inspections" timestamp="1632473792720">
+      <screen x="0" y="0" width="1415" height="864" />
     </state>
+    <state x="331" y="96" key="#Inspections/0.0.1415.864@0.0.1415.864" timestamp="1632473792720" />
+    <state x="463" y="129" key="FileChooserDialogImpl" timestamp="1632313796126">
+      <screen x="0" y="0" width="1433" height="864" />
+    </state>
+    <state x="463" y="129" key="FileChooserDialogImpl/0.0.1433.864@0.0.1433.864" timestamp="1632313796126" />
     <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1630567763536" />
-    <state x="575" y="340" key="NewPhpFileDialog" timestamp="1630564974804">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="536" y="340" key="NewPhpFileDialog" timestamp="1632325077107">
+      <screen x="0" y="0" width="1433" height="864" />
     </state>
+    <state x="536" y="340" key="NewPhpFileDialog/0.0.1433.864@0.0.1433.864" timestamp="1632325077107" />
+    <state x="542" y="340" key="NewPhpFileDialog/0.0.1448.864@0.0.1448.864" timestamp="1631269118145" />
     <state x="575" y="340" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1630564974804" />
+    <state x="101" y="0" key="SettingsEditor" timestamp="1631701362999">
+      <screen x="0" y="0" width="1433" height="864" />
+    </state>
+    <state x="101" y="0" key="SettingsEditor/0.0.1433.864@0.0.1433.864" timestamp="1631701362999" />
+    <state x="0" y="0" width="1200" height="581" key="dock-window-1" timestamp="1632325293558">
+      <screen x="0" y="0" width="1433" height="864" />
+    </state>
+    <state x="0" y="0" width="1200" height="581" key="dock-window-1/0.0.1433.864@0.0.1433.864" timestamp="1632325293558" />
+    <state x="703" y="0" width="730" height="864" key="find.popup" timestamp="1632381366869">
+      <screen x="0" y="0" width="1433" height="864" />
+    </state>
+    <state x="703" y="0" width="730" height="864" key="find.popup/0.0.1433.864@0.0.1433.864" timestamp="1632381366869" />
+    <state x="434" y="286" width="766" height="338" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1631701360218">
+      <screen x="0" y="0" width="1433" height="864" />
+    </state>
+    <state x="434" y="286" width="766" height="338" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1433.864@0.0.1433.864" timestamp="1631701360218" />
+    <state x="286" y="193" key="run.anything.popup" timestamp="1632474992073">
+      <screen x="0" y="0" width="1415" height="864" />
+    </state>
+    <state x="286" y="193" key="run.anything.popup/0.0.1415.864@0.0.1415.864" timestamp="1632474992073" />
+    <state x="290" y="193" key="run.anything.popup/0.0.1433.864@0.0.1433.864" timestamp="1632324536269" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1630565277187">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1630565277187" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/functions/urltrigger.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
