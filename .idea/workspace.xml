@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b15449c-4611-4922-8997-4694b2795130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/1gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/2gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/urltrigger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/oefentoets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefentoets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trigger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triggers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phpprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpprojects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/afbeeldingen/Royalistiq-boeken-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/afbeeldingen/s13.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/afbeeldingen/supra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toets 1/functions/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets 1/functions/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toets 1/functions/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets 1/functions/gallery.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +44,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xZaFSGNqhw55kgqe9WpDeUdrAr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,6 +71,8 @@
       <recent name="C:\xampp\htdocs\phpprojects\functions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpprojects\toets database\content" />
+      <recent name="C:\xampp\htdocs\phpprojects\toets database" />
       <recent name="C:\xampp\htdocs\phpprojects\functions" />
       <recent name="C:\xampp\htdocs\phpprojects\toets 1" />
     </key>
@@ -101,7 +95,14 @@
       <workItem from="1632301270649" duration="10633000" />
       <workItem from="1632376207729" duration="5449000" />
       <workItem from="1632381760643" duration="7000" />
-      <workItem from="1632469472663" duration="3371000" />
+      <workItem from="1632469472663" duration="7690000" />
+      <workItem from="1632557076859" duration="10181000" />
+      <workItem from="1632580981461" duration="10843000" />
+      <workItem from="1632838552204" duration="4147000" />
+      <workItem from="1632920196528" duration="630000" />
+      <workItem from="1632920906869" duration="274000" />
+      <workItem from="1632939856769" duration="1104000" />
+      <workItem from="1633070171131" duration="1252000" />
     </task>
     <servers />
   </component>
@@ -125,14 +126,16 @@
       <screen x="0" y="0" width="1415" height="864" />
     </state>
     <state x="331" y="96" key="#Inspections/0.0.1415.864@0.0.1415.864" timestamp="1632473792720" />
-    <state x="463" y="129" key="FileChooserDialogImpl" timestamp="1632313796126">
-      <screen x="0" y="0" width="1433" height="864" />
+    <state x="457" y="129" key="FileChooserDialogImpl" timestamp="1632905753602">
+      <screen x="0" y="0" width="1415" height="864" />
     </state>
+    <state x="457" y="129" key="FileChooserDialogImpl/0.0.1415.864@0.0.1415.864" timestamp="1632905753602" />
     <state x="463" y="129" key="FileChooserDialogImpl/0.0.1433.864@0.0.1433.864" timestamp="1632313796126" />
     <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1630567763536" />
-    <state x="536" y="340" key="NewPhpFileDialog" timestamp="1632325077107">
-      <screen x="0" y="0" width="1433" height="864" />
+    <state x="529" y="340" key="NewPhpFileDialog" timestamp="1632651233351">
+      <screen x="0" y="0" width="1415" height="864" />
     </state>
+    <state x="529" y="340" key="NewPhpFileDialog/0.0.1415.864@0.0.1415.864" timestamp="1632651233351" />
     <state x="536" y="340" key="NewPhpFileDialog/0.0.1433.864@0.0.1433.864" timestamp="1632325077107" />
     <state x="542" y="340" key="NewPhpFileDialog/0.0.1448.864@0.0.1448.864" timestamp="1631269118145" />
     <state x="575" y="340" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1630564974804" />
@@ -152,14 +155,15 @@
       <screen x="0" y="0" width="1433" height="864" />
     </state>
     <state x="434" y="286" width="766" height="338" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1433.864@0.0.1433.864" timestamp="1631701360218" />
-    <state x="286" y="193" key="run.anything.popup" timestamp="1632474992073">
+    <state x="286" y="193" key="run.anything.popup" timestamp="1632905660416">
       <screen x="0" y="0" width="1415" height="864" />
     </state>
-    <state x="286" y="193" key="run.anything.popup/0.0.1415.864@0.0.1415.864" timestamp="1632474992073" />
+    <state x="286" y="193" key="run.anything.popup/0.0.1415.864@0.0.1415.864" timestamp="1632905660416" />
     <state x="290" y="193" key="run.anything.popup/0.0.1433.864@0.0.1433.864" timestamp="1632324536269" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1630565277187">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="320" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1632651406754">
+      <screen x="0" y="0" width="1415" height="864" />
     </state>
+    <state x="320" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1415.864@0.0.1415.864" timestamp="1632651406754" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1630565277187" />
   </component>
   <component name="XDebuggerManager">
