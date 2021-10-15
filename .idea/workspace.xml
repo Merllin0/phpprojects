@@ -21,8 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="4b15449c-4611-4922-8997-4694b2795130" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toets 1/functions/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets 1/functions/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toets 1/functions/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets 1/functions/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcfunction.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcfunction2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eerste functie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/f-01.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpf-01.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rekenmachinefunction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toets database/content/user_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets database/content/user_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toets database/content/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/toets database/content/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trigger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triggers.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +71,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -102,7 +111,12 @@
       <workItem from="1632920196528" duration="630000" />
       <workItem from="1632920906869" duration="274000" />
       <workItem from="1632939856769" duration="1104000" />
-      <workItem from="1633070171131" duration="1252000" />
+      <workItem from="1633070171131" duration="8471000" />
+      <workItem from="1633508297444" duration="10000" />
+      <workItem from="1633588272901" duration="2077000" />
+      <workItem from="1633681945503" duration="1911000" />
+      <workItem from="1633694577387" duration="8000" />
+      <workItem from="1634286062527" duration="600000" />
     </task>
     <servers />
   </component>
@@ -126,16 +140,20 @@
       <screen x="0" y="0" width="1415" height="864" />
     </state>
     <state x="331" y="96" key="#Inspections/0.0.1415.864@0.0.1415.864" timestamp="1632473792720" />
+    <state x="404" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1633683307108">
+      <screen x="0" y="0" width="1415" height="864" />
+    </state>
+    <state x="404" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1415.864@0.0.1415.864" timestamp="1633683307108" />
     <state x="457" y="129" key="FileChooserDialogImpl" timestamp="1632905753602">
       <screen x="0" y="0" width="1415" height="864" />
     </state>
     <state x="457" y="129" key="FileChooserDialogImpl/0.0.1415.864@0.0.1415.864" timestamp="1632905753602" />
     <state x="463" y="129" key="FileChooserDialogImpl/0.0.1433.864@0.0.1433.864" timestamp="1632313796126" />
     <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1630567763536" />
-    <state x="529" y="340" key="NewPhpFileDialog" timestamp="1632651233351">
+    <state x="529" y="340" key="NewPhpFileDialog" timestamp="1633589081770">
       <screen x="0" y="0" width="1415" height="864" />
     </state>
-    <state x="529" y="340" key="NewPhpFileDialog/0.0.1415.864@0.0.1415.864" timestamp="1632651233351" />
+    <state x="529" y="340" key="NewPhpFileDialog/0.0.1415.864@0.0.1415.864" timestamp="1633589081770" />
     <state x="536" y="340" key="NewPhpFileDialog/0.0.1433.864@0.0.1433.864" timestamp="1632325077107" />
     <state x="542" y="340" key="NewPhpFileDialog/0.0.1448.864@0.0.1448.864" timestamp="1631269118145" />
     <state x="575" y="340" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1630564974804" />
@@ -143,9 +161,10 @@
       <screen x="0" y="0" width="1433" height="864" />
     </state>
     <state x="101" y="0" key="SettingsEditor/0.0.1433.864@0.0.1433.864" timestamp="1631701362999" />
-    <state x="0" y="0" width="1200" height="581" key="dock-window-1" timestamp="1632325293558">
-      <screen x="0" y="0" width="1433" height="864" />
+    <state x="0" y="0" width="1108" height="630" key="dock-window-1" timestamp="1633078125879">
+      <screen x="0" y="0" width="1415" height="864" />
     </state>
+    <state x="0" y="0" width="1108" height="630" key="dock-window-1/0.0.1415.864@0.0.1415.864" timestamp="1633078125879" />
     <state x="0" y="0" width="1200" height="581" key="dock-window-1/0.0.1433.864@0.0.1433.864" timestamp="1632325293558" />
     <state x="703" y="0" width="730" height="864" key="find.popup" timestamp="1632381366869">
       <screen x="0" y="0" width="1433" height="864" />

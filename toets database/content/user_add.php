@@ -6,25 +6,30 @@
       $invalid_naam = true;
       $invalid_password = true;
 
-      if (isset($_POST['add'])) {
-        elseif (isset($_POST['email']) || strlen($_POST['email']) <5) {
+      if (isset($_POST['add']))
+      {
+        if (!isset($_POST['email']) || strlen($_POST['email']) <5)
+        {
           $invalid_email = true;
         }
-        elseif (isset($_POST['naam']) || strlen($_POST['naam']) < 3) {
+        elseif (!isset($_POST['naam']) || strlen($_POST['naam']) < 3)
+        {
           $invalid_naam = true;
         }
-        elseif (isset($_POST['password']) || strlen($_POST['password']) <5) {
-
+        elseif (!isset($_POST['password']) || strlen($_POST['password']) <5)
+        {
           $invalid_password = true;
         }
-        elseif ($invalid_email === false || $invalid_naam === false || $invalid_password === false)
+
+        if( $invalid_email === false || $invalid_naam === false || $invalid_password === false)
         {
           $invalid = '<p class="invalid">form is invalid</p>';
         }
+
         else {
           $sql = 'INSERT INTO `users`(`email`, `naam`,`password`)
         VALUES ("' . $_POST['email'] . '", "' . $_POST['naam'] . '", "' . $_POST['password'] . '")';
-
+  //die($sql);
           if (dbquery($conn, $sql)) {
             header('location: ?controller=users');
           }

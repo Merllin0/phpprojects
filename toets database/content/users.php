@@ -16,7 +16,5 @@ function users($conn)
   $render .='</table>';
   return $render;
 }
-
-
 ?>
 
